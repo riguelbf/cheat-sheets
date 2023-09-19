@@ -24,7 +24,7 @@ ls -l ~/.ssh     # see the files of '~/.ssh/' directory
 nano ~/.ssh/config
 
 ````
- 
+```
  Host bitbucket.org
      User git
      Hostname bitbucket.org
@@ -37,6 +37,7 @@ nano ~/.ssh/config
      PreferredAuthentications publickey
      IdentitiesOnly yes
      IdentityFile ~/.ssh/accountB
+```
 
 ### Clone from default account.
 ```
