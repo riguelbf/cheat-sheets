@@ -1,3 +1,11 @@
+<p align="center">
+  ![image](https://github.com/riguelbf/cheat-sheets/assets/7014252/6bc4542c-e05d-43cc-b93e-621f2412d90a)
+    <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+
+</p>
+
+
+
 Riguels's "Cheat-Sheets"
 Hi, there! 👋
 
