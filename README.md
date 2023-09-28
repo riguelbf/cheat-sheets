@@ -29,6 +29,7 @@ Contents
 * [Secrets](./src/secrets/)
 * [Technologies](./src/tech/)
 * [Test](./src/testing/)
+* [Terminal](./src/terminal/)
 <!--te-->
 
 > If you have any suggestions please let me know =)
